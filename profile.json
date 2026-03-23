@@ -2,114 +2,122 @@
   "github_id": 97883672,
   "username": "Sycolee78",
   "login": "Sycolee78",
-  "avatar_url": "https://raw.githubusercontent.com/Sycolee78/stackfolio-data/main/assets/profile.svg",
-  "full_name": "Your Name",
-  "headline": "Building the future, one line at a time.",
-  "bio": "Full-Stack Developer passionate about clean code and great UX.",
-  "status": "Status: Open to Opportunities",
-  "brand": "STACKFOLIO",
+  "avatar_url": "https://raw.githubusercontent.com/Sycolee78/stackfolio-data/main/assets/profile.png",
+  "full_name": "Emmanuel Buruvuru",
+  "headline": "Building secure, intelligent systems that actually solve problems.",
+  "bio": "Cybersecurity & Software Engineer. Competitive athlete. Introspective writer.",
+  "status": "Open to Opportunities",
+  "brand": "EB",
   "resume_label": "Download Resume",
-  "contact_text": "Open to internships, collaborations, and interesting problems.",
+  "contact_text": "Open to interesting problems, ambitious projects, or collaborations that matter.",
   "social_links": {
     "github": "https://github.com/Sycolee78",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/emmanuel-buruvuru-a20b46246/",
     "twitter": "",
-    "email": ""
+    "email": "emmanuelburuvuru@gmail.com"
   },
-  "resume_url": "https://raw.githubusercontent.com/Sycolee78/stackfolio-data/main/assets/resume.txt",
-  "contact_url": "",
-  "project_links": {},
+  "resume_url": "https://raw.githubusercontent.com/Sycolee78/stackfolio-data/main/assets/resume.pdf",
+  "contact_url": "mailto:emmanuelburuvuru@gmail.com",
+  "project_links": {
+    "agrimesh-autonomous": "https://github.com/Sycolee78/agrimesh-autonomous",
+    "tank-failure": "https://github.com/Sycolee78/Tank-Failure-Pressure-Prediction",
+    "blog-management": "https://github.com/Sycolee78/Blog-Management"
+  },
   "about": [
-    "I am a passionate developer who loves building fast, scalable, and intelligent systems.",
-    "I enjoy shipping products end-to-end, from backend architecture to polished UI."
+    "I'm a Cybersecurity & Software Engineer who builds secure, performant systems that actually solve problems.",
+    "Beyond the code, I'm a competitive badminton athlete training for the Mauritian Open 2026, a disciplined runner, and a writer who explores emotion and paradox through introspective poetry.",
+    "I believe deeply in discipline, intentionality, and the pursuit of long-term mastery."
   ],
   "projects": [
     {
-      "id": "stackfolio-starter",
+      "id": "agrimesh-autonomous",
       "number": "01",
-      "title": "Stackfolio Starter",
-      "desc": "A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.",
-      "status": "LIVE",
+      "title": "AgriMesh Autonomous",
+      "desc": "Agent-driven Farm OS for Zimbabwe. An autonomous farm intelligence system that designs and simulates smart agricultural layouts based on geospatial land selection.",
+      "status": "IN PROGRESS",
       "image_url": "",
-      "skills": [
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "GitHub API"
-      ]
+      "skills": ["Python", "AI/ML", "FastAPI", "Simulation", "Agriculture"]
     },
     {
-      "id": "taskflow-api",
+      "id": "tank-failure",
       "number": "02",
-      "title": "TaskFlow API",
-      "desc": "A REST API for task planning with auth, role-based access, and analytics dashboards.",
-      "status": "BETA",
+      "title": "Tank Failure Pressure Prediction",
+      "desc": "ML project that predicts target pressure (bar) for tank failure from engineering and process features. Uses advanced models for safety applications.",
+      "status": "LIVE",
       "image_url": "",
-      "skills": [
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "JWT"
-      ]
+      "skills": ["Python", "Machine Learning", "Data Science", "Engineering"]
+    },
+    {
+      "id": "blog-management",
+      "number": "03",
+      "title": "Blog Management System",
+      "desc": "Modern full-stack blog application with portfolio-style responsive grid UI. Supports thumbnails, categories, excerpts, and complete CRUD operations.",
+      "status": "LIVE",
+      "image_url": "",
+      "skills": ["Full-Stack", "REST API", "CRUD", "Responsive Design"]
+    },
+    {
+      "id": "avail-sport",
+      "number": "04",
+      "title": "Avail Sport Application",
+      "desc": "A FlutterFlow app connecting users with sports, gym, and educational activities in Mauritius. Features activity discovery, booking system, and user profiles.",
+      "status": "IN PROGRESS",
+      "image_url": "",
+      "skills": ["FlutterFlow", "Firebase", "Mobile App", "Figma"]
+    },
+    {
+      "id": "online-classroom",
+      "number": "05",
+      "title": "Online Classroom Platform",
+      "desc": "Internal learning platform for Accenture employees, featuring live sessions, resource sharing, and progress tracking with enterprise-grade architecture.",
+      "status": "LIVE",
+      "image_url": "",
+      "skills": ["Spring Boot", "Java", "React.js", "MongoDB", "REST API"]
     }
   ],
   "experience": [
     {
-      "role": "Full Stack Developer Intern",
-      "company": "Acme Digital Labs",
-      "duration": "2025 — Present",
+      "role": "Cybersecurity Engineer",
+      "company": "Ignite Africa",
+      "duration": "2024 — Present",
+      "location": "Zimbabwe",
+      "points": "<li>Designed and enforced security architectures using Check Point firewalls.</li><li>Managed endpoints with Microsoft Intune and built internal/external policy frameworks.</li><li>Worked with Rapid7 for vulnerability scanning and SIEM tools for threat detection and incident response.</li>"
+    },
+    {
+      "role": "Full Stack Developer",
+      "company": "Accenture",
+      "duration": "2023 — 2024",
       "location": "Remote",
-      "points": "<li>Built reusable UI components and reduced page load time by 32%.</li><li>Implemented REST endpoints and improved API response consistency.</li>"
+      "points": "<li>Architected and launched a full-stack online classroom platform.</li><li>Built enterprise-grade engineering: Java/Spring Boot backend, React.js frontend, MongoDB for data modeling.</li><li>Designed REST APIs and implemented performance optimizations at scale.</li>"
+    },
+    {
+      "role": "Freelance Software Engineer",
+      "company": "Fiverr",
+      "duration": "2022 — 2023",
+      "location": "Remote",
+      "points": "<li>Built MySQL schemas for data-heavy applications and Python automation scripts.</li><li>Created Docker containers for deployment and RESTful APIs in C and Python.</li><li>Learned to scope work, ship on deadline, and communicate with non-technical clients.</li>"
     }
   ],
   "education": [
     {
-      "degree": "B.Tech in Computer Science",
-      "school": "Sample University",
-      "duration": "2021 — 2025",
-      "extra": "CGPA: 8.9"
+      "degree": "Computer Science / Cybersecurity",
+      "school": "University",
+      "duration": "2020 — 2024",
+      "extra": ""
     }
   ],
   "skills": {
-    "languages": [
-      "Python",
-      "TypeScript",
-      "Go"
-    ],
-    "frameworks": [
-      "React",
-      "Next.js",
-      "FastAPI"
-    ],
-    "databases": [
-      "PostgreSQL",
-      "MongoDB",
-      "FAISS"
-    ],
-    "devops": [
-      "Docker",
-      "AWS",
-      "GitHub Actions"
-    ]
+    "languages": ["Python", "Java", "TypeScript", "C", "SQL"],
+    "frameworks": ["Spring Boot", "React.js", "FastAPI", "FlutterFlow"],
+    "databases": ["MongoDB", "MySQL", "PostgreSQL"],
+    "devops": ["Docker", "GitHub Actions", "Check Point", "Microsoft Intune", "Rapid7"]
   },
   "stats": [
-    {
-      "value": "15+",
-      "label": "Projects"
-    },
-    {
-      "value": "2K+",
-      "label": "GitHub Stars"
-    },
-    {
-      "value": "2+",
-      "label": "Years Exp"
-    },
-    {
-      "value": "10K+",
-      "label": "Users"
-    }
+    { "value": "5+", "label": "Projects" },
+    { "value": "3+", "label": "Years Exp" },
+    { "value": "3", "label": "Companies" },
+    { "value": "2", "label": "Domains" }
   ],
   "hidden_sections": [],
-  "created_at": "2026-03-16T08:34:34.236Z"
+  "created_at": "2026-03-23T13:19:00.000Z"
 }
